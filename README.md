@@ -86,7 +86,7 @@ and code that holds up when the load arrives.
 
 ## 📌 Pinned Builds
 
-<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=ahmadali9250&repo=Rased&bg_color=0D1117&title_color=F5DE50&text_color=C9D1D9&border_color=30363D" alt="Rased Repo" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=ahmadali9250&repo=Rased&bg_color=0D1117&title_color=F5DE50&text_color=C9D1D9&border_color=30363D&cache_bust=1" alt="Rased Repo" />
 
 <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=AbdaullahAG&repo=OpenTrace&bg_color=0D1117&title_color=F5DE50&text_color=C9D1D9&border_color=30363D" alt="OpenTrace Repo" />
 
