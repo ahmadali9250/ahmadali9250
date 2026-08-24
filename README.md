@@ -28,7 +28,7 @@
 ## 🦇 About Me
 
 ```text
-> IDENTIFICATION: Ahmad Ali
+> IDENTIFICATION: Ahmad Ali Alsayyed
 > STATUS:         Computer Science Student
 > SPECIALIZATION: Software Development / Competitive Programming
 ```
