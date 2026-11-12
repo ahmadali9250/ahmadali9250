@@ -44,7 +44,8 @@ and code that holds up when the load arrives.
 
 ```text
 > 🔭 Currently solving: Algorithmic problems on Codeforces
-> 📖 Currently learning: Ruby on Rails
+> 📖 Currently learning: Python for back-end development
+> 🏆 Milestone: Qualified for ACPC
 ```
 
 ## ⚡ Current Operations
@@ -53,19 +54,20 @@ and code that holds up when the load arrives.
 |---|-------|--------|
 | 01 | **PROJECT** | Architecting full-stack systems and integrating AI for two confidential stealth-phase platforms |
 | 02 | **TRAINING** | Daily Codeforces / algorithm drills — building the reflexes that hold up under contest pressure |
-| 03 | **LEARNING** | Ruby on Rails, Docker, Python, Machine Learning, and Flutter/Dart |
-| 04 | **TARGET** | JCPC 2026 qualification, and shipping the current stealth builds to their first real users |
+| 03 | **LEARNING** | Python and Flutter/Dart |
+| 04 | **TARGET** | Master what I learn by applying it in my projects |
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,linux,ruby,rails,docker,python,dart,flutter&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,linux,python,dart,flutter&theme=dark" alt="Tech Stack" />
 
 </div>
 
 **Primary:** C++, Java, HTML/CSS/JS, Git, GitHub, Linux
-**Learning:** Ruby on Rails, Docker, Python, Machine Learning, Dart, Flutter
+
+**Learning:** Python, Dart, Flutter
 
 ## 📊 System Diagnostics
 
